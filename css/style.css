@@ -1,0 +1,120 @@
+.galery{
+    display: -webkit-flex;
+    
+    align-items: center;
+    justify-content: center;
+    color: black;
+}
+.container{
+    margin-top: 8px;
+    margin-left: 8px;
+    padding-bottom: 70px;
+}
+.card-title{
+    text-align: center;
+}
+.card:hover{
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-shadow: -1px 9px 40px -12pxx rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 40px -12pxx rgba(0,0,0,0.75);
+}
+
+.col-md-4{
+    padding-bottom: 20px;
+    padding-left: 100px;
+}
+
+.card-text{
+    text-align: justify;
+    font-size: 15px;
+}
+.card-body{
+    background: #ecf0f1;
+    border-radius: 2px;
+
+}
+
+.card-img{
+    height: 190px;
+    width: 286px;
+}
+
+
+/* ME TEAM */
+.equipo .card-body h4{
+    text-align:center;
+   
+}
+.equipo h1{
+    text-align:center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 30px;
+    padding-top: 50px;
+    padding-left: 120px;
+}
+
+
+/* FOOTER */
+
+.footer{
+    background-color: #ecf0f1;
+    padding: 70px 0px;
+}
+
+.footer-container{
+    max-width: 1170px;
+    background-color:#ecf0f1;
+    margin:auto;
+}
+.col1{
+    width: 25%;
+    padding: 0px 19px;
+}
+ul{
+    list-style: none;
+    
+}
+
+
+.fila{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col1 h4{
+    font-size: 22px;
+    color: black;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    font-weight: 500;
+    position: relative;
+  
+}
+.col1 h4::before{
+    content:'';
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    background-color: black;
+    height:3px ;
+    box-sizing: border-box;
+    width: 60px;
+}
+
+.col1 h4 ul li:not(:last-child){
+margin-bottom: 17px;
+}
+.col1 ul li a{
+    font-size: 20px;
+    text-transform: capitalize;
+    color: teal;
+    text-decoration: none;
+    font-weight: 300;
+    color: black;
+    display: block;
+    transition: all 0.2s ease;
+}
+.col1 ul li a:hover{
+    color: wheat;
+    padding-left: 10px;
+}
