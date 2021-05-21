@@ -1,0 +1,44 @@
+<!-- 
+    <div class="Row">
+      <div class="col-4-lg ">
+         bootrap galeria 
+        <div class="card"  style="width:18rem;">
+          <img src="imagenes/1.jpg" alt="card one" class="card-img-top" >
+          <div class="card-body">
+            <h5 class="card-title ">STORE PC</h5>
+            <p class="card-text">
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit, fuga animi? Officiis quibusdam libero fuga, alias illo atque! Doloribus eius eaque tempore id! Autem accusamus quia sint inventore, perspiciatis enim.
+            </p>
+            <a href="#" class="btn btn-primary">read..</a>
+          </div>
+        </div>
+      </div>
+      <br>
+
+      <div class="col-4-lg">
+        <div class="card" style="width:18rem;">
+        <img src="imagenes/2.jpg" alt="Card Two" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title"> portafolio</h5>
+          <p class="card-text">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora laborum non architecto doloribus commodi consequatur sunt accusamus velit deleniti possimus provident vero totam excepturi tenetur, id harum exercitationem ipsum rem.
+          </p>
+          <a href="#" class="btn btn-primary">read</a>
+        </div>
+      </div>
+    </div>
+  
+    <br>
+     <div class="col-4-lg">
+      <div class="card" style="width:18rem;">
+        <img src="imagenes/3.jpg" alt="card-three" class="card-img-top">
+        <div class="card-body">
+          <h5 class="card-title"> mantenimiento</h5>
+          <p class="card-text">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora laborum non architecto doloribus commodi consequatur sunt accusamus velit deleniti possimus provident vero totam excepturi tenetur, id harum exercitationem ipsum rem.
+          </p>
+          <a href="#" class="btn btn-primary">read</a>
+        </div>
+        </div>
+    </div> <br>
+  -->
